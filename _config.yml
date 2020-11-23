@@ -1,6 +1,6 @@
 
-title: 1 #Your awesome title
-email: #youremail@domain.com
+title: youngseok #Your awesome title
+email: youngseokaaa@gmail.com #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -18,10 +18,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: 김영석
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 소통하는 개발자
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
