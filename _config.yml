@@ -1,7 +1,7 @@
 
-title: Catbook #Your awesome title
-email: #youremail@domain.com
-description: > # this means to ignore newlines until "baseurl"
+title: 1 #Your awesome title
+email: 2@2.com #youremail@domain.com
+description: 33 # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -18,10 +18,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: 4
   pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
+  picAlt: "5"
+  job: 6
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
